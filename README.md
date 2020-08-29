@@ -1,5 +1,5 @@
 # Banco do Brasil App Redesign
-Saca só esse [layout](https://dribbble.com/shots/5997903-Banco-do-Brasil-App-redesign) do [Robson Cardoso](https://www.instagram.com/robinsoncardoso/) que encontrei no Dribbble. Como já fui usuário do aplicativo do Banco do Brasil resolvi implementar com SwiftUI no iOS 13.
+Saca só esse [layout](https://dribbble.com/shots/5997903-Banco-do-Brasil-App-redesign) do [Robinson Cardoso](https://www.instagram.com/robinsoncardoso/) que encontrei no Dribbble. Como já fui usuário do aplicativo do Banco do Brasil resolvi implementar com SwiftUI no iOS 13.
 
 ## Screenshots
 <p align="center">
